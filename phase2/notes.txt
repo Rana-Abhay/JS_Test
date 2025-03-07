@@ -1,0 +1,19 @@
+Quokka  -> vs code ka extension hai
+
+JavaScript: Javascript me har ku6 ek object hai.
+variable jo hai , direct reference deta hai memory ka
+
+Data Type:
+
+String, Number, boolean, null, undefined,array, object, symbol,BigInt
+
+Primitive DataType:
+Non-Primitive Datatype:
+
+Processing:
+Conditional -> Loop 
+
+Greedy Algorithm: Jaise hi pahla answer mil jata hai wo bahar aa jata hai
+
+Properties and methods/functions used for array:
+
