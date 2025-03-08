@@ -301,7 +301,7 @@ p02.lName = "Rana"
 
 // Aha pe p02 ko change krne se p01 change nhi hua
 
-// spread operator inner level object (nested obj)pe work nhi krta , only on level ki chijo ko copy kr leta hai
+// spread operator inner level object (nested obj)pe work nhi krta , only one level ki chijo ko copy kr leta hai
 // shallow copy khte hain . (...) shallow copy
 
 
