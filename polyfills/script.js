@@ -129,6 +129,7 @@ if(!Array.prototype.fill){
 
 const arr = [1,2,3,4,5,6,7,8];
 
+
 // Error : .map doesn't exist on arr variable -> It means we need to add polyfill for .map
 
 // .for each ka polyfill
@@ -211,5 +212,7 @@ const res = arr.myForEach(function(value,index){
    console.log(n3);
    
    */
+
+
 
    
