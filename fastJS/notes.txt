@@ -1,0 +1,21 @@
+
+DDOS: distributed denial-of-service
+
+Q 1. Enable negative indexing in JavaScript
+
+Data & Operation  -> In any language
+
+JS -> Math & Date Time k sath khelo
+
+NodeJS -> crypto & http k sath khelo
+
+ ----------------- March22 --------------------
+
+ Node JS is a runtime environment.
+
+ Node JS (JS + C++); built on V8 engine (owned by chrome)
+ Spider monkey (firefox) own krta hai
+ 
+
+ npm -> node package manager
+ 

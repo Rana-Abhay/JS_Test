@@ -162,7 +162,7 @@ addButton.addEventListener('click', () => {
 
   itemList.appendChild(li);
 
-  inputItems.value = ' ';
+  inputItems.value = '';
 
   clearAll.addEventListener('click', () => {
     itemList.innerHTML = '';
