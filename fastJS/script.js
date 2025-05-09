@@ -3,7 +3,7 @@
 let name = "Hitesh"
 const pi = 3.14
 
-let number = 42 // Number
+let number = 425 // Number
 let text = "hello" // String
 let isTrue = true // Boolean
 
@@ -15,7 +15,7 @@ let symbolVar = Symbol() // Symbol
 
 let person = {
   name: "Hitesh",
-  age: 20,
+  age: 50,
   isStudent: true,
 }
 
